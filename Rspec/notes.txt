@@ -1,0 +1,5 @@
+1. bundle init
+2. update gemfile with rspec, pry, and byebug
+3. bundle install 
+3. rspec --init
+4. add "--format documentation" and "--color" to .rspec 
