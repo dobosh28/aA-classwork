@@ -1,5 +1,4 @@
 class ApplicationController < ActionController::Base
-    #RLLL
     helper_method :current_user, :logged_in?
 
     private 
