@@ -1,0 +1,39 @@
+/* TODO Add site wide styles */
+
+body {
+    background-color: bisque;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    align-self: center;
+}
+
+label {
+    padding: 10px, 10px, 10px, 10px;
+    display: flex;
+}
+
+input[type=text] {
+    background-color: blue;
+    padding: 10px, 10px, 10px, 10px;
+    color: white;
+}
+
+#n {
+    background-color: red;
+}
+
+#e {
+    background-color: orange; 
+}
+
+#ph {
+    background-color: yellow;
+}
+
+select {
+    background-color: green;
+}
+
+input[type="submit"] {
+    background-color: blueviolet;
+}
